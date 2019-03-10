@@ -1,0 +1,11 @@
+What you might want to install on Ubuntu to compile mm
+# sudo apt-get install gcc make perl
+# sudo apt-get install libsdl1.2-dev
+# sudo apt-get install libgtk2.0-dev
+# sudo apt-get install libcanberra-dev libcanberra-gtk-dev
+# sudo apt-get install libsdl-image1.2-dev
+# sudo apt-get install libsdl-ttf2.0-dev
+# sudo apt-get install libsdl-gfx1.2-dev
+# sudo apt-get install libdv4-dev
+# sudo apt-get install libxml2-dev
+# sudo apt-get install libmatheval-dev
