@@ -10,7 +10,14 @@ people to interactively feel digital images by moving a braille device.
 Be warned: I uploaded this software for the documentation purposes. If you want
 to use it better be prepared for fixing many bugs and hacks.
 
-!(demo1)[images/mm-demo1.png]
-!(demo1)[images/mm-demo2.png]
-!(demo1)[images/mm-demo3.png]
-!(demo1)[images/mm-demo4.png]
+![demo4](images/mm-demo4.png)
+Screenshot Editor
+
+![demo1](images/mm-demo1.png)
+Screenshot Museum für Völkerkunde Leipzig
+
+![demo2](images/mm-demo2.png)
+Screenshot Museum für Völkerkunde Leipzig
+
+![demo3](images/mm-demo3.png)
+Screenshot Museum für Völkerkunde Leipzig
